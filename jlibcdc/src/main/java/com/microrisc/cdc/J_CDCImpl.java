@@ -20,6 +20,9 @@ package com.microrisc.cdc;
  * Wrapper class for accessing CDCLib static library (originally written in C++) 
  * from within Java code.
  * 
+ * @author Michal Konopa
+ * @author Frantisek Mikulu
+ * 
  * @version     1.1.0
  */
 public class J_CDCImpl {

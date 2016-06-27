@@ -23,7 +23,8 @@ package com.microrisc.cdc;
  * <p>
  * Peer class for SPIModes enum.
  * 
- * @version     1.0
+ * @author Michal Konopa
+ * @version     1.0.0
  */
 public enum J_SPIModes {
     DISABLED        (0x0), 

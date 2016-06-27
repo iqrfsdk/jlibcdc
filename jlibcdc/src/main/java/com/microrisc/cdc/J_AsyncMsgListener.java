@@ -21,7 +21,8 @@ package com.microrisc.cdc;
  * asynchronous message comes, <code>onGetMessage</code> will be called. 
  * Data of the message will be passed in <code>data</code> parameter.
  * 
- * @version     1.0
+ * @author Michal Konopa
+ * @version     1.0.0
  */
 public interface J_AsyncMsgListener {
     /**

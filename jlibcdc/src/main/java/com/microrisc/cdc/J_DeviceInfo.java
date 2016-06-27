@@ -21,7 +21,8 @@ package com.microrisc.cdc;
  * <p>
  * Peer class for DeviceInfo structure.
  * 
- * @version     1.0
+ * @author Michal Konopa
+ * @version     1.0.0
  */
 public class J_DeviceInfo {
     /** Device type. */

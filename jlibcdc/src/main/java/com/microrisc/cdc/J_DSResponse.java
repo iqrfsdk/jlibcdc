@@ -22,7 +22,8 @@ package com.microrisc.cdc;
  * <p>
  * Peer class for DSResponse.
  * 
- * @version     1.0
+ * @author Michal Konopa
+ * @version     1.0.0
  */
 public enum J_DSResponse {
     /** Data successfully sent to TR module. */

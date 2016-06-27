@@ -22,7 +22,8 @@ package com.microrisc.cdc;
  * <p>
  * Peer class for CDCImplException class.
  * 
- * @version     1.0
+ * @author Michal Konopa
+ * @version     1.0.0
  */
 public class J_CDCImplException extends Exception {
     /**

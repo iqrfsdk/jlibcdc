@@ -23,7 +23,8 @@ package com.microrisc.cdc;
  * <p>
  * Peer class for SPIStatus structure.
  * 
- * @version     1.0
+ * @author Michal Konopa
+ * @version     1.0.0
  */
 public class J_SPIStatus {
     /** Determines, if current SPI status is: SPI data ready. */
