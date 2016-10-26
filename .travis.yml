@@ -1,0 +1,9 @@
+language: java
+jdk:
+    - oraclejdk7
+env:
+    - TEST_DIR=jlibcdc/
+    - TEST_DIR=jlibcdc-examples/
+script:
+    - cd $TEST_DIR
+    - mvn test
